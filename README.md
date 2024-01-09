@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ofcourseiam Im Onur.
+- 👋 Hi, I’m @onrslmnn Im Onur.
 - 👀 I’m interested in python and linux
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on development linux.
